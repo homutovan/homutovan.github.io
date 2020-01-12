@@ -353,15 +353,16 @@ article {
   display: flex;
   flex-direction: column;
   justify-content: center;
-  margin-bottom: 70px;
-  padding: 32px 0;
+  margin-bottom: 30px;
   min-width: 810px;
-  background-color: #f4f7f6;
 }
 
 .socials-list {
   display: flex;
   justify-content: center;
+  padding: 32px 0;
+  margin-bottom: 70px;
+  background-color: #f4f7f6;
 }
 
 .socials-list-item:nth-child(1n+2) {
@@ -401,12 +402,10 @@ article {
   display: block;
   margin: 0 auto;
   max-width: 500px;
-  margin-bottom: 30px;
   font-size: 12px;
   font-weight: 700;
   text-align: center;
   color: #999999;
-  
 }
 
 .visually-hidden {
