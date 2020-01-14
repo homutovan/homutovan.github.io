@@ -152,7 +152,7 @@ article {
 .title {
   flex-basis: 350px;
   margin: 0 auto;
-  padding: 90px 0 0 145px;
+  padding-top: 90px;
   max-width: 895px;
   font-size: 45px;
   line-height: 75px;
