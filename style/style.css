@@ -245,7 +245,7 @@ article {
   background-color: black;
 }
 
-.sidebar-title:after {
+.sidebar-title::after {
   content: "";
   display: block;
   margin: 15px auto 25px auto;
